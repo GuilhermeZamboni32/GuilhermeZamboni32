@@ -1,5 +1,7 @@
 
-### Olá! Eu sou o Guilherme Zamboni 😉
+### Olá! Eu sou o Guilherme Zamboni 😉<br/><br/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GuilhermeZamboni32&color=blue" alt="Profile views" /> </p>
 
 <br/>
 

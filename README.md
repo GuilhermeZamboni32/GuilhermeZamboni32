@@ -56,11 +56,11 @@
 
 ## 😎 Sobre Mim!
 
-🎓 estudando Desenvolvimento de Sistemas e Ciência de Dados e Inteligência Artificial no SENAI.<br/>
-🏐 Jogar é meu passatempo favorito.<br/>
-🏆 Meu objetivo é me tornar um ótimo Desenvolvedor Full Stack!<br/>
+🎓 curso técnico de Desenvolvimento de Sistemas e Faculdade de Ciência de Dados e Inteligência Artificial no SENAI.<br/>
+🏐 Jogar vôlei é meu passatempo favorito.<br/>
+🏆 Meu objetivo é me tornar um ótimo Desenvolvedor Full Stack e um bom Ciêntista de dados!<br/>
 🤓 Curto muito História, Biologia e programação!<br/>
-📚 Cada dia aprendendo uma coisa nova!<br/><br/>
+📚 Cada dia aprendendo coisas novas!<br/><br/>
 
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeZamboni32&theme=blue-green)

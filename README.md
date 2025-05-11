@@ -8,6 +8,7 @@
 
 [![linkedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-zamboni-000624301/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_zamboni_32/)
+[![instagram]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_zamboni_32/](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox))📫 How to reach me **vitordanielli3113@gmail.com**
 
 <br/>
 

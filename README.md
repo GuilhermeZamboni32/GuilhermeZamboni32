@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Guilherme Zamboni 😉<br/><br/>
+## Olá! Eu sou o Guilherme Zamboni 😉<br/><br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GuilhermeZamboni32&color=blue" alt="Profile views" /> </p>
 
@@ -14,6 +14,14 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Dev%C2%B4s%2C+Sou+o+Guilherme!+✌️;Sejam+bem-vindos+ao+meu+Perfil+🤓;Futuro+Full-Stack+Developer!+💻;Futuro+Data+Scientist!+📊)
 
 <br/>
+
+## 😎 Sobre Mim!
+
+🎓 curso técnico de Desenvolvimento de Sistemas e Faculdade de Ciência de Dados e IA no SENAI.<br/>
+🏆 Meu objetivo é me tornar um ótimo Desenvolvedor Full Stack e um bom Ciêntista de dados!<br/>
+🤓 Curto muito História, Biologia e programação!<br/>
+🏐 Meu passatempo favorito é Jogar vôlei.<br/>
+📚 Cada dia aprendendo coisas novas!<br/><br/>
 
 ## ⚙️ Tecnologias que uso no dia a dia
 
@@ -39,18 +47,21 @@
 
 ## 🤔  Ferramentas de Trabalho
 
-<img aling="center" alt="node.js" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-<img aling="center" alt="node.js" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
-<img aling="center" alt="node.js" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
-<img aling="center" alt="node.js" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-<img aling="center" alt="node.js" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img aling="center" alt="node.js" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white">
-<img aling="center" alt="node.js" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-<img aling="center" alt="node.js" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-<img aling="center" alt="node.js" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
-<img aling="center" alt="node.js" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-<img aling="center" alt="node.js" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-<img aling="center" alt="node.js" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=black">
+<img aling="center" alt="Microsoft_Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img aling="center" alt="Microsoft_PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+<img aling="center" alt="Microsoft_Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+<img aling="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+<img aling="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img aling="center" alt="Miro" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white">
+<img aling="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+<img aling="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+<img aling="center" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
+<img aling="center" alt="jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+<img aling="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+<img aling="center" alt="Visual_Studio_Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=black">
+<img aling="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=black">
+<img aling="center" alt="GitHub" src="https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white">
+
 
 <br/>
 <br/>
@@ -64,9 +75,9 @@
 - 🔵 Python ![★★☆☆☆](https://img.shields.io/badge/-2/5-blue)  
 
 ### 🖥️ Front-End  
-- 🟣 React.js ![★★★☆☆](https://img.shields.io/badge/-3/5-purple)  
 - 🟠 HTML  ![★★★★☆](https://img.shields.io/badge/-4/5-orange)
 - 🔵 CSS ![★★★★☆](https://img.shields.io/badge/-4/5-blue) 
+- 🟣 React.js ![★★★☆☆](https://img.shields.io/badge/-3/5-purple)  
 
 ### 🔧 Back-End & Banco de Dados  
 - 🟢 Node.js ![★★★☆☆](https://img.shields.io/badge/-3/5-green)  
@@ -77,7 +88,8 @@
 ### 🎨 Design & Organização  
 - 🟣 Figma ![★★★★★](https://img.shields.io/badge/-5/5-purple)  
 - 🔵 Trello ![★★★★☆](https://img.shields.io/badge/-4/5-blue)  
-- 🟡 Miro ![★★☆☆☆](https://img.shields.io/badge/-2/5-yellow)  
+- 🟡 Miro ![★★★☆☆](https://img.shields.io/badge/-3/5-yellow)
+- 🔵 Jira ![★★☆☆☆](https://img.shields.io/badge/-2/5-yellow)  
 
 ### 🔥 Soft Skills  
 - 🟡 Criatividade ![★★★★★](https://img.shields.io/badge/-5/5-yellow)  
@@ -90,14 +102,6 @@
 
 <br/>
 
-
-## 😎 Sobre Mim!
-
-🎓 curso técnico de Desenvolvimento de Sistemas e Faculdade de Ciência de Dados e IA no SENAI.<br/>
-🏆 Meu objetivo é me tornar um ótimo Desenvolvedor Full Stack e um bom Ciêntista de dados!<br/>
-🤓 Curto muito História, Biologia e programação!<br/>
-🏐 Meu passatempo favorito é Jogar vôlei.<br/>
-📚 Cada dia aprendendo coisas novas!<br/><br/>
 
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeZamboni32&theme=blue-green)

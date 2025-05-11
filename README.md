@@ -1,5 +1,7 @@
 
-## Olá! Eu sou o Guilherme Zamboni 😉<br/><br/>
+
+<h1 align="center">Olá! Eu sou o Guilherme Zamboni 😉</h1>
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GuilhermeZamboni32&color=blue" alt="Profile views" /> </p>
 
@@ -8,7 +10,6 @@
 
 [![linkedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-zamboni-000624301/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_zamboni_32/)
-[![instagram](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)]📫 How to reach me **vitordanielli3113@gmail.com**
 
 <br/>
 
@@ -18,11 +19,13 @@
 
 ## 😎 Sobre Mim!
 
-🎓 curso técnico de Desenvolvimento de Sistemas e Faculdade de Ciência de Dados e IA no SENAI.<br/>
-🏆 Meu objetivo é me tornar um ótimo Desenvolvedor Full Stack e um bom Ciêntista de dados!<br/>
-🤓 Curto muito História, Biologia e programação!<br/>
-🏐 Meu passatempo favorito é Jogar vôlei.<br/>
-📚 Cada dia aprendendo coisas novas!<br/><br/>
+- 🎓 curso técnico de Desenvolvimento de Sistemas e Faculdade de Ciência de Dados e IA no SENAI. 
+- 🏆 Meu objetivo é me tornar um ótimo Desenvolvedor Full Stack e um bom Ciêntista de dados!
+- 🤓 Curto muito História, Biologia e programação!
+- 🏐 Meu passatempo favorito é Jogar vôlei.
+- 📚 Cada dia aprendendo coisas novas!
+- 📫 Como chegar até mim **guilhermezamboni867@gmail.com**
+<br/>
 
 ## ⚙️ Tecnologias que uso no dia a dia
 
@@ -37,9 +40,6 @@
 <img aling="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img aling="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img aling="center" alt="python" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-
- 
-<div>
 
 <br/>
 <br/>

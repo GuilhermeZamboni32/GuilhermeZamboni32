@@ -91,7 +91,7 @@
 - 🟣 Figma ![★★★★★](https://img.shields.io/badge/-5/5-purple)  
 - 🔵 Trello ![★★★★☆](https://img.shields.io/badge/-4/5-blue)  
 - 🟡 Miro ![★★★☆☆](https://img.shields.io/badge/-3/5-yellow)
-- 🔵 Jira ![★★☆☆☆](https://img.shields.io/badge/-2/5-yellow)  
+- 🔵 Jira ![★★☆☆☆](https://img.shields.io/badge/-2/5-blue)  
 
 ### 🔥 Soft Skills  
 - 🟡 Criatividade ![★★★★★](https://img.shields.io/badge/-5/5-yellow)  

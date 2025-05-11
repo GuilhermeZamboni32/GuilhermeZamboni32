@@ -49,17 +49,54 @@
 <img aling="center" alt="node.js" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 <img aling="center" alt="node.js" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
 <img aling="center" alt="node.js" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+<img aling="center" alt="node.js" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+<img aling="center" alt="node.js" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=black">
 
 <br/>
+<br/>
+<br/>
+<br/>
+
+## 📊 Minhas Competências
+
+### 👨‍💻 Linguagens de Programação  
+- 🟡 JavaScript ![★★★☆☆](https://img.shields.io/badge/-3/5-yellow)  
+- 🔵 Python ![★★☆☆☆](https://img.shields.io/badge/-2/5-blue)  
+
+### 🖥️ Front-End  
+- 🟣 React.js ![★★★☆☆](https://img.shields.io/badge/-3/5-purple)  
+- 🟠 HTML  ![★★★★☆](https://img.shields.io/badge/-4/5-orange)
+- 🔵 CSS ![★★★★☆](https://img.shields.io/badge/-4/5-blue) 
+
+### 🔧 Back-End & Banco de Dados  
+- 🟢 Node.js ![★★★☆☆](https://img.shields.io/badge/-3/5-green)  
+- 🔵 PostgreSQL ![★★★☆☆](https://img.shields.io/badge/-3/5-blue)
+- 🟢 MongoDB Atlas ![★☆☆☆☆](https://img.shields.io/badge/-1/5-green)
+- 🟠 Postman ![★☆☆☆☆](https://img.shields.io/badge/-1/5-orange)
+
+### 🎨 Design & Organização  
+- 🟣 Figma ![★★★★★](https://img.shields.io/badge/-5/5-purple)  
+- 🔵 Trello ![★★★★☆](https://img.shields.io/badge/-4/5-blue)  
+- 🟡 Miro ![★★☆☆☆](https://img.shields.io/badge/-2/5-yellow)  
+
+### 🔥 Soft Skills  
+- 🟡 Criatividade ![★★★★★](https://img.shields.io/badge/-5/5-yellow)  
+- 🟢 Trabalho em Equipe ![★★★★★](https://img.shields.io/badge/-5/5-green)  
+- 🟣 Aprendizagem ![★★★★★](https://img.shields.io/badge/-5/5-purple)
+- 🔴 Liderança e resiliência ![★★★★☆](https://img.shields.io/badge/-4/5-red)
+- 🟠 Comunicação ![★★★★☆](https://img.shields.io/badge/-4/5-orange)
+- 🔵 Adaptabilidade ![★★★★☆](https://img.shields.io/badge/-4/5-blue)
+ 
+
 <br/>
 
 
 ## 😎 Sobre Mim!
 
-🎓 curso técnico de Desenvolvimento de Sistemas e Faculdade de Ciência de Dados e Inteligência Artificial no SENAI.<br/>
-🏐 Jogar vôlei é meu passatempo favorito.<br/>
+🎓 curso técnico de Desenvolvimento de Sistemas e Faculdade de Ciência de Dados e IA no SENAI.<br/>
 🏆 Meu objetivo é me tornar um ótimo Desenvolvedor Full Stack e um bom Ciêntista de dados!<br/>
 🤓 Curto muito História, Biologia e programação!<br/>
+🏐 Meu passatempo favorito é Jogar vôlei.<br/>
 📚 Cada dia aprendendo coisas novas!<br/><br/>
 
 

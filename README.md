@@ -19,10 +19,10 @@
 
 ## 😎 Sobre Mim!
 
-- 🎓 curso técnico de Desenvolvimento de Sistemas e Faculdade de Ciência de Dados e IA no SENAI. 
+- 🎓 Cursando: Técnico de Desenvolvimento de Sistemas e Faculdade de Ciência de Dados e IA no SENAI. 
 - 🏆 Meu objetivo é me tornar um ótimo Desenvolvedor Full Stack e um bom Ciêntista de dados!
+- 🏐 Meu passatempo favorito é Jogar vôlei nos finais de semana.
 - 🤓 Curto muito História, Biologia e programação!
-- 🏐 Meu passatempo favorito é Jogar vôlei.
 - 📚 Cada dia aprendendo coisas novas!
 - 📫 Como chegar até mim **guilhermezamboni867@gmail.com**
 <br/>

@@ -24,7 +24,7 @@
 - 🏐 Meu passatempo favorito é Jogar vôlei nos finais de semana.
 - 🤓 Curto muito História, Biologia e programação!
 - 📚 Cada dia aprendendo coisas novas!
-- 📫 Como chegar até mim **guilhermezamboni867@gmail.com**
+- 📫 Como chegar até mim **guilhermezambonimenegacio@gmail.com**
 <br/>
 
 ## ⚙️ Tecnologias que uso no dia a dia

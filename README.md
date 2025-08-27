@@ -19,7 +19,7 @@
 
 ## 😎 Sobre Mim!
 
-- 🎓 Cursando: Técnico de Desenvolvimento de Sistemas e Faculdade de Ciência de Dados e IA no SENAI. 
+- 🎓 Cursando: Técnico de Desenvolvimento de Sistemas e Bacharelado de Ciência de Dados e IA no SENAI. 
 - 🏆 Meu objetivo é me tornar um ótimo Desenvolvedor Full Stack e um bom Ciêntista de dados!
 - 🏐 Meu passatempo favorito é Jogar vôlei nos finais de semana.
 - 🤓 Curto muito História, Biologia e programação!
